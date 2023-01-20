@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is Catsky in sunshine state, I am software engineer, love making products that make people's life easier and happier.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My product list:
+[hiscar.com.au - online logbook] (https://hiscar.com.au/)
+[realtime enrollment tool] (https://baobao.alertable.me)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+You can find my page at Linkedin:
+[catsky](https://www.linkedin.com/in/zhdhui/)
